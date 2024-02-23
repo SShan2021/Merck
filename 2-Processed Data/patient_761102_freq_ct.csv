@@ -1,0 +1,10 @@
+"","D2","acetaminophen","albuterol","ampicillin","aspirin","cough_syrup","ibuprofen","tricomcindone","tricomcinidone","ventolin"
+"1","acetaminophen",3,0,0,0,0,0,0,0,0
+"2","albuterol",6,1,0,0,0,0,0,0,0
+"3","ampicillin",6,4,1,0,0,0,0,0,0
+"4","aspirin",48,32,32,120,0,0,0,0,0
+"5","cough_syrup",12,8,8,64,6,0,0,0,0
+"6","ibuprofen",24,16,16,128,32,28,0,0,0
+"7","tricomcindone",3,2,2,16,4,8,0,0,0
+"8","tricomcinidone",3,2,2,16,4,8,1,0,0
+"9","ventolin",6,4,4,32,8,16,2,2,1

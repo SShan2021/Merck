@@ -1,0 +1,15 @@
+ls
+getwd()
+library("tidyverse")
+sim <- read_csv("simulation.csv")
+dim(sim)
+length(colnames(sim))
+colnames(sim)[1:5]
+sim <- sim[,-1]
+colnames(sim)[1:5]
+length(colnames(sim))
+load("/Users/sophshan/Library/CloudStorage/OneDrive-SharedLibraries-UniversityofNorthCarolinaatChapelHill/XTAN group - Summer project on iEMA platform - SHAN Research/Merck/2-Processed Data/grid_initial.rds")
+load("/Users/sophshan/Library/CloudStorage/OneDrive-SharedLibraries-UniversityofNorthCarolinaatChapelHill/XTAN group - Summer project on iEMA platform - SHAN Research/Merck/2-Processed Data/grid_initial.rds")
+a <- readRDS("/Users/sophshan/Library/CloudStorage/OneDrive-SharedLibraries-UniversityofNorthCarolinaatChapelHill/XTAN group - Summer project on iEMA platform - SHAN Research/Merck/2-Processed Data/grid_initial.rds")
+colnames(A)
+colnames(a)
